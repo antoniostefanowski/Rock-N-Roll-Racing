@@ -1,0 +1,18 @@
+# Ignora o cache do Visual Studio (O SEU ERRO DE PERMISSÃO)
+.vs/
+
+# Ignora pastas de compilação (Onde o .exe fica)
+x64/
+Debug/
+Release/
+
+# Ignora arquivos de usuário
+*.suo
+*.user
+
+# Ignora os próprios executáveis e logs
+*.exe
+*.log
+*.tlog
+*.obj
+*.pdb
